@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440683627801",
+    "project_id": "empowerize-3fc34",
+    "storage_bucket": "empowerize-3fc34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440683627801:android:18af4063b49079594eb188",
+        "android_client_info": {
+          "package_name": "com.example.empowerize_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440683627801-qbrunn0f98u3h5csqvknu4ftbh0nlo91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHQNsMpBpIo4uQrFNV5puH3qWnVy2HRk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440683627801-qbrunn0f98u3h5csqvknu4ftbh0nlo91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
